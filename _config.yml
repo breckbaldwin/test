@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+google_analytics: UA-197688669-1
